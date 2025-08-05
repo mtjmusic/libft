@@ -6,7 +6,7 @@
 /*   By: mmusic <mmusic@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/02 12:26:26 by mmusic            #+#    #+#             */
-/*   Updated: 2024/09/11 11:36:34 by mmusic           ###   ########.fr       */
+/*   Updated: 2025/08/05 20:40:51 by mmusic           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,8 @@
 
 /* # include <bsd/string.h>
 # include <ctype.h>
-# include <stdio.h> */
 # include <limits.h>
+# include <stdio.h> */
 # include <stdlib.h>
 # include <unistd.h>
 
